@@ -2,3 +2,4 @@ D1XT RESOLUSI
   - konsisten belajar membuat web
   - membuat platform untuk pengelolaan topup game
   - membuat forum diskusi
+  - mengembangkan skill di c++/nextjs
