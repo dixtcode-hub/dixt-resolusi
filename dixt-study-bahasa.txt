@@ -5,6 +5,7 @@ STUDY BAHASA PEMROGRAMAN
     *ES6
     *Framework javascript
      ^vue
+     ^react
   - struktur data dasar
   - C++
   - PHP
