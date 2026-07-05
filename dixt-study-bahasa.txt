@@ -4,7 +4,9 @@ STUDY BAHASA PEMROGRAMAN
   - JAVA SCRIPT
     *ES6
     *Framework javascript
-     ^angular
+     ^vue
+     ^react
+  - struktur data dasar
   - C++
   - PHP
     ^laravel
