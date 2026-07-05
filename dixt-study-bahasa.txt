@@ -14,3 +14,4 @@ STUDY BAHASA PEMROGRAMAN
   - Vlogs
   - Python
     *handscanning
+    *liriklagu
