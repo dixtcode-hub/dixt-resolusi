@@ -4,14 +4,9 @@ STUDY BAHASA PEMROGRAMAN
   - JAVA SCRIPT
     *ES6
     *Framework javascript
-     ^  Vue
-     ^ React
   - struktur data dasar
   - C++
   - PHP
-    ^Laravel
   - Interview
   - Vlogs
   - Python
-    *handscanning
-    *liriklagu
