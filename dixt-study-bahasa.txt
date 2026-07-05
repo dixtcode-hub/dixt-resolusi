@@ -4,9 +4,10 @@ STUDY BAHASA PEMROGRAMAN
   - JAVA SCRIPT
     *ES6
     *Framework javascript
-  - struktur data dasar
+     ^angular
   - C++
   - PHP
+    ^laravel
   - Interview
   - Vlogs
   - Python
