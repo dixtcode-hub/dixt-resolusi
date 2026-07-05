@@ -2,5 +2,13 @@ STUDY BAHASA PEMROGRAMAN
   - HTML
   - CSS
   - JAVA SCRIPT
+    *ES6
+    *Framework javascript
+     ^  Vue
+  - struktur data dasar
   - C++
   - PHP
+    ^Laravel
+  - Interview
+  - Vlogs
+  - Python
