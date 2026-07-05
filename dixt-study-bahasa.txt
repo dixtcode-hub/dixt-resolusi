@@ -13,3 +13,4 @@ STUDY BAHASA PEMROGRAMAN
   - Interview
   - Vlogs
   - Python
+    *handscanning
